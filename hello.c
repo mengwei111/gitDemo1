@@ -4,4 +4,5 @@ int main(int arg, char* argv[]){
     printf("inited by SCM.\n");
 }
 
-dsakjjsdksd`
+dsakjjsdksd
+dev01`
